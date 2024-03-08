@@ -1,0 +1,43 @@
+.contenedor{
+    background-color: rgb(70, 71, 71);
+    float: left;
+}
+.caja2{
+     height: 500px;
+     width: 250px;
+     margin :8px;
+    background-color: rgb(96, 62, 62);
+    float:left;
+     
+}
+.caja1{
+     position: relative;
+     top: 10px;
+     left: 10px;
+     display: flex;
+     height:70px ;
+     width: 55px;
+     margin: 12px;
+     background-color: aliceblue;
+     float:left;
+}
+ 
+.caja3{
+    position:relative;
+    top: 95px;
+    left: 10px;
+    height: 60px;
+    width: 210px;
+    margin: 10px;
+    background-color: rgb(132, 132, 78);
+}
+.caja4{
+    position:relative;
+    left: 10px;
+    top:  115px;
+    height: 70px;
+    width: 55px;
+    margin: 10px;
+    background-color: rgb(225, 225, 217);
+    float: left;
+}
